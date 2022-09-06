@@ -1,4 +1,4 @@
-# aula-html
+# Aula de Git e Github.
 aula Git e Github.
 
 Olá eu Sou Leticia Coelho, desenvolvedora front-end 
