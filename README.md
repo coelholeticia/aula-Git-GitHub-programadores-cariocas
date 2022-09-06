@@ -1,5 +1,4 @@
 # Aula de Git e Github.
-aula Git e Github.
 
 Olá eu Sou Leticia Coelho, desenvolvedora front-end 
 estudante de ADS pela Ucam e facilitadora dos Modulos de Logica de programação e HTML, CSS, Git e Introdução ao JAVASCRIPT. 😁✌️
