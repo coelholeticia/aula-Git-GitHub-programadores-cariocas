@@ -13,5 +13,6 @@ Aula de Git e Github colocamos o material portfolio feito em aula da semana.
 
 
 Lista de principais comandos. 
+![Desenhado à mão Agenda Diária Slide](https://user-images.githubusercontent.com/90153628/188668020-e0dfdce1-c393-4bf0-812a-9e41f3ef134a.jpg)
 
 
